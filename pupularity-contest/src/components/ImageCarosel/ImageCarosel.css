@@ -1,0 +1,15 @@
+.Carosel{
+    margin: auto;
+    border: 3px solid black;
+    max-height: 75vh;
+    padding: 51px;
+}
+
+.PupCard{
+    margin: auto;
+    border: 3px solid black;
+}
+
+.caroselContainer{
+    max-height: 90vh;
+}
